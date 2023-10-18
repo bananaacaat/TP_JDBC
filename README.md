@@ -24,5 +24,6 @@ gestion des clients :
    Supprimer un client de la liste.
    Rechercher des services disponibles.
 # Installation
-Clônez ce dépôt sur votre machine locale.
+Clônez ce dépôt sur votre machine locale : 
+https://github.com/bananaacaat/TP_JDBC
 
