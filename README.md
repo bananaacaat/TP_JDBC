@@ -9,6 +9,7 @@ Ce projet Java Swing offre une interface graphique pour gérer les clients et le
 # Aperçu
 Ce projet a été développé dans le cadre d'un cours de programmation Java. Il propose une interface utilisateur graphique (GUI) basée sur Swing pour gérer une liste de clients et de services. Il permet de créer de nouveaux clients, de mettre à jour leurs informations, de les supprimer et de rechercher des services.
 # Captures d'écran
+![Image text](C:\Users\yassi\Downloads\image)
 
 # Technologies utilisées
    Ajouter un nouveau Service
